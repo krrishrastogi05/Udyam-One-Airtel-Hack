@@ -1,0 +1,14 @@
+CONTENT: system architecture diagram of Udyam One, drawn as five numbered columns from left to right joined by thin arrows with small grey arrow labels, plus a loop band underneath.
+
+Column 1, red circle "1", card titled "Channels", subtitle "Where owners and partners meet us". Four rows with icons: "Web app" (laptop icon), "WhatsApp chat" (chat icon), "Voice call" (phone icon), "Partner console" (people icon).
+Arrow label: "REST + live sync"
+Column 2, red circle "2", card titled "Secure gateway", subtitle "FastAPI". Rows: "Live sync to every screen", "Rate limits and security headers", "Signed partner sign-in".
+Arrow label: "events"
+Column 3, red circle "3", card titled "AI that takes action", subtitle "Works on the owner's behalf". Rows with icons: "Advisor", "KYC checker", "Fulfilment", "Win-back", "Notifier".
+Arrow label: "facts in, decisions out"
+Column 4, red circle "4", card titled "Decision engines", subtitle "Rules, not guesses". Rows: "Catalogue pricing", "Smart KYC checks", "Lead scoring", "Consent and audit log".
+Arrow label: "read / write"
+Column 5, red circle "5", card titled "Data and services", subtitle "Trusted sources". Rows with icons: "GST registry", "DigiLocker (Udyam)", "UPI and e-NACH", "Aadhaar eSign", "Encrypted document vault".
+
+BELOW the columns, a wide rounded band with a soft red tint titled "Real-time loop: from a sentence to a booked install" showing five small connected steps with icons:
+"Owner speaks" -> "Speech to text (Sarvam AI)" -> "Understanding (Gemini)" -> "Engines decide" -> "Plan, KYC, install, update"

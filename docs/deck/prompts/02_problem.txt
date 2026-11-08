@@ -1,0 +1,22 @@
+CONTENT: why small businesses do not get connected today. Layout: top area with a horizontal funnel on the left and a card on the right, bottom row of four stat tiles.
+
+TOP LEFT (60% width): a funnel drawn as six horizontal bars of decreasing length, each bar labelled on the left and with its number on the right:
+"Interested" 5,000
+"Contacted" 3,406
+"Needs understood" 1,974
+"Accepted the quote" 861  (this bar in bright red, with a small red tag next to it: "Only 44% accept the quote")
+"Documents done" 588
+"Connected" 368
+All other bars charcoal grey.
+
+TOP RIGHT (40% width): a card titled "Why they drop" with four rows, each = icon in a soft red circle + big red number + short label:
+icon phone with a cross: "1,632" "never reached or visited"
+icon receipt with rupee: "1,006" "found the quote costly, slow or confusing"
+icon stack of papers: "273" "stuck on paperwork"
+icon wrench: "220" "lost at install or payment"
+
+BOTTOM ROW: four equal light-grey tiles, each with a small icon, a large bold number and a short label:
+icon calendar: "17.6 days" "to get connected"
+icon phone: "3 calls" "to ask for status"
+icon rupee: "₹15,053" "to win one customer"
+icon speech bubble with letters: "1 in 3" "prefer a regional language"

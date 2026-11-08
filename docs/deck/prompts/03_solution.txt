@@ -1,0 +1,17 @@
+CONTENT: how Udyam One works for a small business owner. Layout: two zones side by side, left zone 45% width, right zone 55% width.
+
+LEFT ZONE: a tall rounded light-grey card titled "What the owner gets" with five rows, each row = icon in a soft red circle + bold title + one short line:
+1. icon microphone. "Talk in your language" / "Hindi, Marathi, Tamil, English or Hinglish, by voice or text"
+2. icon receipt with rupee. "One clear monthly price" / "Every item explained in your own words"
+3. icon document with a check. "No paperwork" / "Records fetched, photos checked in seconds"
+4. icon payment card. "Pay by UPI" / "Installation is booked for you"
+5. icon chat bubble. "Updates on WhatsApp" / "No need to call and ask"
+
+RIGHT ZONE: label "How it works" in red, then a horizontal flow of six numbered red circles joined by thin arrows, each with a line icon above and a short label below:
+1 "Tell us"  2 "Get a plan"  3 "Verify"  4 "Pay"  5 "Install"  6 "Stay connected"
+Below the flow, a wide rounded red pill with white text: "AI takes action on your behalf"
+Below that, a rounded card titled "Innovation and uniqueness" with four green check-mark lines in two columns:
+"Voice-first in regional languages"
+"AI suggests, the catalogue decides the price"
+"Same journey on web and WhatsApp"
+"A local partner can step in anytime"

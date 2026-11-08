@@ -1,0 +1,13 @@
+CONTENT: feasibility and viability. Layout: two zones side by side, the left one slightly wider. Never print layout numbers or percentages.
+
+LEFT ZONE titled "Feasibility" in red: four stacked rounded cards, each with a red numbered circle, an icon in a soft circle, a bold title and two short bullet lines:
+1 icon gear: "Technical" - "Working prototype, end to end" - "Voice in 5 languages, live web and WhatsApp sync"
+2 icon handshake: "Operational" - "Fits how Accel already sells" - "Local partners get ready leads; field force focuses on large sites"
+3 icon rupee: "Economic" - "Cost to win a customer: ₹15,053 today, under ₹8,000" - "No sales visit for most businesses"
+4 icon shield: "Regulatory" - "Built for the DPDP Act 2023 and Rules 2025" - "Follows TRAI message hours, DoT KYC and RBI e-mandate rules"
+
+RIGHT ZONE titled "Rollout plan" in red: a vertical timeline with three red numbered milestones and a card for each:
+1 "Pilot: 0 to 3 months" - "Pune and Lucknow, 20 partners" - "Clinics, offices and shops"
+2 "Scale: 3 to 9 months" - "10 cities" - "Restaurant and retail chains, DigiLocker, eSign and UPI AutoPay live"
+3 "National: 9 to 18 months" - "Understands all 22 Indian languages" - "Factories through the field force"
+Under the timeline, a wide soft-red card with an icon of a building and the text: "Market: 8.84 crore enterprises registered on Udyam"

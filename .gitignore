@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+frontend/node_modules/
+# local / private
+frontend/dist/
+docs/inspo/
+docs/brief/
+# deck working files (final PPTX/PDF and build scripts are kept)
+docs/deck/gpt/
+docs/deck/panels/
+docs/deck/shots/
+docs/deck/Udyam_One_SYNC_2026.*
+docs/deck/build_deck.js
+docs/deck/build_deck_v2.js
+*.tmp

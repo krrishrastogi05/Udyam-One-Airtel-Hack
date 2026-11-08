@@ -1,0 +1,25 @@
+CONTENT: competitive analysis. Layout: a positioning map on the left (narrower), a comparison table on the right (wider), and a red banner across the bottom of the right side. Never print layout numbers or percentages. Do not use any company logos. Column header icons: simple grey line icons in light circles, except the "Udyam One" column whose icon is a plain red circle with a bold white capital letter "U".
+
+LEFT: a 2x2 positioning map inside a light-grey rounded card, drawn as a cross of two axes with arrows.
+- Horizontal axis: left end label "One product", right end label "Full business bundle".
+- Vertical axis: bottom end label "Visit and paperwork", top end label "Self-serve, in your language".
+Place dots and labels exactly like this:
+- "Telco online store": grey dot in the TOP-LEFT quadrant (self-serve but one product).
+- "Generic chatbot": grey dot in the TOP-LEFT quadrant, lower than the telco store.
+- "Local reseller": grey dot in the BOTTOM-LEFT quadrant.
+- "Field sales visit": grey dot in the BOTTOM-RIGHT quadrant (full bundle but visit and paperwork).
+- "Udyam One": one large red dot with a soft red glow alone in the TOP-RIGHT quadrant.
+
+RIGHT: a clean comparison table with a header row and six rows. Header columns: "Field sales visit", "Telco online store", "Local reseller", "Generic chatbot", "Udyam One". The "Udyam One" column has a soft red background and red header text. Cells use only three symbols: a green check, an amber half circle, a grey cross.
+Row "Full bundle on one bill": check, cross, half, cross, check
+Row "Talk in your language, by voice": half, cross, check, half, check
+Row "Instant, clear monthly price": cross, check, cross, cross, check
+Row "No paperwork": cross, half, cross, cross, check
+Row "Install tracked, updates on WhatsApp": cross, half, cross, cross, check
+Row "Local partner can step in": check, cross, check, cross, check
+Small legend under the table: green check "Yes", amber half circle "Partly", grey cross "No".
+
+BOTTOM BANNER under the table, fully inside the image with rounded corners (red, white text, three items separated by thin white dividers, each with a small white line icon):
+"Prices come from Accel's own catalogue, so the AI stays trustworthy"
+"Voice-first in regional languages"
+"Partners handle the hard cases and keep their commission"

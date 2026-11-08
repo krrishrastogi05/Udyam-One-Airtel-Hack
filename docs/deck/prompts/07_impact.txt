@@ -1,0 +1,18 @@
+CONTENT: impact and benefits. Layout: three zones side by side (left, centre, right) and a red banner across the bottom. Never print layout numbers or percentages.
+
+LEFT ZONE titled "Who gains" in red: four rows, each = icon in a soft red circle + bold name + one short line:
+icon shop: "Business owners" - "Online in one conversation, in their own language"
+icon telecom tower: "Accel Business" - "About twice the connected businesses from the same leads"
+icon handshake: "Local partners" - "Ready leads with full context, commission kept"
+icon India map outline: "Digital India" - "More small businesses using UPI, billing and WhatsApp selling"
+
+CENTRE: a large circle made of four red and grey arc segments, with text in the middle: "Every small business, online in one conversation"
+
+RIGHT ZONE titled "Outcomes we target" in red: five rows, each a light-grey rounded tile with an icon, a bold label, a grey "before" value, a thin arrow and a large red "after" value:
+icon chart: "Leads connected" "7.4%" -> "14%"
+icon calendar: "Days to go live" "17.6" -> "7"
+icon rupee: "Cost to win a customer" "₹15,053" -> "under ₹8,000"
+icon phone: "Follow-up calls" "3" -> "0.5"
+icon heart: "Leave in 6 months" "15%" -> "10%"
+
+BOTTOM BANNER (full width, red, centred white text with a small white sparkle icon): "One conversation. One plan. One bill. Live in days."
